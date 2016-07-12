@@ -5,7 +5,7 @@
 /**
  * Return Largest Numbers in Arrays
  *
- * @param String
+ * @param Array
  * @return Array
  */
 function largestOfFour(arr) {
