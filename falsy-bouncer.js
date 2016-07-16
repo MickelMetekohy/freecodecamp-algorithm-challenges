@@ -6,7 +6,7 @@
  * Falsy Bouncer
  *
  * @param Array
- * @return Aray
+ * @return Array
  */
 function bouncer(arr) {
     return arr.filter(function(val) {
